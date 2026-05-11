@@ -1,0 +1,10 @@
+# Installed subagent skills (project-scoped, not content)
+# Reinstall with: ~/.local/share/my-grand-project-skills/scripts/bootstrap.sh
+.agents/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
